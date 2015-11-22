@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>food.png</file>
+        <file>back.png</file>
+        <file>browse2.png</file>
+        <file>save2.png</file>
+        <file>cake.png</file>
+        <file>trash.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>fcs.ico</file>
+    </qresource>
+</RCC>
